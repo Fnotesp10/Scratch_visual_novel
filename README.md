@@ -2,10 +2,10 @@
 
 ## When you guys make progress, do remember to add what you did here so others can follow.
 
-MENU SCENE (menu.sb3).27/11/2021  
--	Basic Start Menu  
+MENU SCENES.27/11/2021  
+-	Basic Start Menu (menu.sb3)
 
-Assets Folder (Assets).27/11/2021  
+ASSETS FOLDER (Assets).27/11/2021  
 -	Folder to store Assets  
 -	Character Folder (Character).27/11/2021  
 	-	Character Sprites  
@@ -14,3 +14,8 @@ Assets Folder (Assets).27/11/2021
 		-	Attack Frame 2 (ATK2)  
 		-	Walk Frame 1 (Walk1)  
 		-	Walk Frame 2 (Walk2)
+-	Main Character Folder.22/12/2021
+	-	baki.png.22/12/2021
+
+GAME LEVELS
+-	playerTest Level (playerTest.sb3).22/12/2021
